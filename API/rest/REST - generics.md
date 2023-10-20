@@ -25,3 +25,13 @@ REST APIs use HTTP methods to perform actions on resources:
 - **PATCH**: Partially update a resource.
 - **HEAD**: Retrieve headers of a resource without the body.
 - **OPTIONS**: Retrieve information about the communication options for the resource.
+
+## HATEOAS
+
+^01ab4d
+
+**HATEOAS**(Hypermedia as the engine of application state). 
+With HATEOAS, a client interacts with a network application whose application servers provide information dynamically through hypermedia 
+
+[[REST - best_practices]]
+[[REST - limitations]]
